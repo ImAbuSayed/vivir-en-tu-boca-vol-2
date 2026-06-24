@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tu-boca-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Vivir en tu boca, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-boca-vol-2/) |
+| **Get License** | [Get License For Vivir en tu boca, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-boca-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero vivir en tu boca, perder el control
+> Rozando tus labios, subiendo el calor
+> De Barna a Madrid, tú me robas la paz
+> Nena, esta noche no mires atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
