@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tu-boca-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Vivir en tu boca, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-boca-vol-2/) |
+| **Get License** | [Obtain a Music License for Vivir en tu boca, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-boca-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4235)
 
 ---
 
