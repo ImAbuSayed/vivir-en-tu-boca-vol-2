@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vivir en tu boca, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Vivir en tu boca, Vol. 2** (vivir-en-tu-boca-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T13:13:33.803398 | `v1` | `aa8d56ccd145597ecc7ce2b4578312bc816b2417a87e5b980ac6f5bfa157832d` | `04b92668d7976e939227a591727630812371228243052da32f2ee7d1c25de78f` | `2026-06-24_vivir-en-tu-boca-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
